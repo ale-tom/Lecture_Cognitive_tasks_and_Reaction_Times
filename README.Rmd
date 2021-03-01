@@ -1,0 +1,76 @@
+---
+title: "Cognitive tasks and Reaction Times"
+output: github_document
+---
+
+```{=html}
+<img src="https://github.com/ale-tom/Open_Science_Course-MPhil_BTN/blob/main/Pictures/logo_uni.jpg" align="right" width = "300"   class="logo"/>
+```
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+```{r load_packages, message=FALSE,warning=FALSE,include=FALSE}
+   library(fontawesome)
+```
+
+## Part IB Education Tripos - Lent Term
+
+------------------------------------------------------------------------
+## Live session 
+
+```{=html}
+<img src="https://img.icons8.com/ios/250/000000/calendar.png" align="left" width = "20"   class="logo"/>
+```
+
+March 03 2021
+ 
+```{=html}
+<img src="https://img.icons8.com/ios/250/000000/clock.png" align="left" width = "20"   class="logo"/>
+```  
+
+  14:00 - 15:00
+ 
+```{=html}
+<img src="https://img.icons8.com/ios/250/000000/marker.png" align="left" width = "20"   class="logo"/>
+```
+
+  Zoom
+
+
+------------------------------------------------------------------------
+
+## Course description
+There is a wide range of cognitive tasks used by researchers studying cognitive development that tap into different cognitive abilities and skills (e.g., intelligence, working memory, inhibitory control). Typical measures of executive functions used with school-aged children are the Dimensional Change Card Sort, the Wisconsin Card Sorting Test, Stanford–Binet Intelligence Scale (5th Edition). Along with the above tests, reaction times have been shown to correlate with cognitive executive functions. This is particularly true for reaction times tasks such as the  Stroop Task, and the Stop Signal Task. During this session, we will discuss the theory behind the tasks and key practical and methodological challenges.
+
+The lecture consists of three parts
+
+1. Cognition and cognitive tests
+
+2. Reaction Times: subtraction method and drift-diffusion model
+
+3. Link between reaction times and cognition 
+
+
+ 
+
+## Pre-work
+
+ 
+
+Recorded lecture available on Moodle
+ 
+
+    
+
+------------------------------------------------------------------------
+
+## Lecturer
+
+ 
+
+-   **Dr Alessandro Tomassini** - *MRC Cognition and Brain Sciences Unit* \|  `r fa("envelope", height = 12, fill = "steelblue")`  [alessandro.tomassini\@mrc-cbu.cam.ac.uk](mailto:alessandro.tomassini@mrc-cbu.cam.ac.uk)
+
+ 
+
+ 
