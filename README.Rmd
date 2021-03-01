@@ -15,9 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Part IB Education Tripos - Lent Term
+## Live session 
 
 ------------------------------------------------------------------------
-## Live session 
 
 ```{=html}
 <img src="https://img.icons8.com/ios/250/000000/calendar.png" align="left" width = "20"   class="logo"/>

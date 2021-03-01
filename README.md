@@ -5,15 +5,23 @@ Cognitive tasks and Reaction Times
 
 ## Part IB Education Tripos - Lent Term
 
-|                                                                                                                    |
-|:-------------------------------------------------------------------------------------------------------------------|
-| \#\# Live session                                                                                                  |
-| `{=html} <img src="https://img.icons8.com/ios/250/000000/calendar.png" align="left" width = "20"   class="logo"/>` |
-| March 03 2021                                                                                                      |
-| `{=html} <img src="https://img.icons8.com/ios/250/000000/clock.png" align="left" width = "20"   class="logo"/>`    |
-| 14:00 - 15:00                                                                                                      |
-| `{=html} <img src="https://img.icons8.com/ios/250/000000/marker.png" align="left" width = "20"   class="logo"/>`   |
-| Zoom                                                                                                               |
+## Live session
+
+------------------------------------------------------------------------
+
+<img src="https://img.icons8.com/ios/250/000000/calendar.png" align="left" width = "20"   class="logo"/>
+
+March 03 2021
+
+<img src="https://img.icons8.com/ios/250/000000/clock.png" align="left" width = "20"   class="logo"/>
+
+14:00 - 15:00
+
+<img src="https://img.icons8.com/ios/250/000000/marker.png" align="left" width = "20"   class="logo"/>
+
+Zoom
+
+------------------------------------------------------------------------
 
 ## Course description
 
