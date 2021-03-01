@@ -39,11 +39,14 @@ methodological challenges.
 
 The lecture consists of three parts
 
-1.  Cognition and cognitive tests
+1.  [Cognition and cognitive
+    tests](https://ale-tom.github.io/Lecture_Cognitive_tasks_and_Reaction_Times/Part1_Cognition_slides.html)
 
-2.  Reaction Times: subtraction method and drift-diffusion model
+2.  [Reaction Times: subtraction method and drift-diffusion
+    model](https://ale-tom.github.io/Lecture_Cognitive_tasks_and_Reaction_Times/Part2_RT_slides.html)
 
-3.  Link between reaction times and cognition
+3.  [Link between reaction times and
+    cognition](https://ale-tom.github.io/Lecture_Cognitive_tasks_and_Reaction_Times/Part3_RT_cog_slides.html)
 
  
 
