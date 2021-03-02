@@ -37,7 +37,7 @@ such as the Stroop Task, and the Stop Signal Task. During this session,
 we will discuss the theory behind the tasks and key practical and
 methodological challenges.
 
-The lecture consists of three parts
+The lecture consists of four parts
 
 1.  [Cognition and cognitive
     tests](https://ale-tom.github.io/Lecture_Cognitive_tasks_and_Reaction_Times/Part1_Cognition_slides.html)
