@@ -24,7 +24,8 @@
     <iframe class="testiframe" src="https://github.com/ale-tom/Lecture_Cognitive_tasks_and_Reaction_Times/blob/gh-pages/Part1_Cognition_slides.html">
     <iframe class="testiframe" src="https://github.com/ale-tom/Lecture_Cognitive_tasks_and_Reaction_Times/blob/gh-pages/Part2_RT_slides.html">
     <iframe class="testiframe" src="https://github.com/ale-tom/Lecture_Cognitive_tasks_and_Reaction_Times/blob/gh-pages/Part3_RT_cog_slides.html">
-        
+    <iframe class="testiframe" src="https://github.com/ale-tom/Lecture_Cognitive_tasks_and_Reaction_Times/blob/gh-pages/Cognitive_tasks_-_RT_tutorial.html">
+    
       Fallback text here for unsupporting browsers, of which there are scant few.
     </iframe>
 </div>
