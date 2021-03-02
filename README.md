@@ -48,6 +48,8 @@ The lecture consists of three parts
 3.  [Link between reaction times and
     cognition](https://ale-tom.github.io/Lecture_Cognitive_tasks_and_Reaction_Times/Part3_RT_cog_slides.html)
 
+4.  [Practical](https://ale-tom.github.io/Lecture_Cognitive_tasks_and_Reaction_Times/Cognitive_tasks_-_RT_tutorial.html)
+
  
 
 ## Pre-work
