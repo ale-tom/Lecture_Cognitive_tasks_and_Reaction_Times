@@ -1,0 +1,39 @@
+---
+title: "Live session"
+output: 
+  rmdformats::robobook:
+    self_contained: true
+    thumbnails: false
+    lightbox: true
+    
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+rmarkdown::find_pandoc(version = '2.9.1')
+```
+
+Please, discuss with your peers the tasks below to the best of your knowledge. There are no strictly right or wrong answers, this is an exercise to apply the knowledge you have gained from this course.
+
+# Tasks
+*** 
+
+1 - You have been asked to assess inhibitory control functions in a group of children aged 8 suspected to have ADHD. Discuss with your peers the most appropriate way to proceed. Would you use a single test or a combination of tests? Which one(s)? 
+
+
+2 - In your study you are comparing inhibitory control functions in two groups of children aged 7: one group carries an allele of the gene ApoE4, while the other group doesn't. Your preliminary data show that carriers of the ApoE4 gene score lower  at the Dimensional Change Card Sort test. Please discuss the next step of your study considering that you would like to establish with more precision which process underpinning inhibitory control is altered by the gene.
+
+
+3 - You have access to a large cohort of participants with an age range spanning from 7 to 87 years. Describe how you would assess age-related changes in fluid (i.e. reasoning and problem solving skills) and crystallised (i.e. knowledge) intelligence.
+
+4 - Discuss how you would assess longitudinally (i.e. by measuring the same participants multiple times) the effect of a given behavioral treatment on children's ability to inhibit prepotent responses.
+
+
+**Please specify the expected results for each study and provide:**
+
+1 - **quantitative predictions** (e.g. increased score of x compared to y... shorter duration of x compared to y...etc).
+
+2 - highlight **possible limitations to your interpretation** in light of the limits of the tasks used.
+
+
